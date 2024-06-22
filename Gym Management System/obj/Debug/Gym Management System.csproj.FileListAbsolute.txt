@@ -1,0 +1,754 @@
+C:\PROJECT\C#\New folder\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe.config
+C:\PROJECT\C#\New folder\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe
+C:\PROJECT\C#\New folder\Gym Management System\Gym Management System\bin\Debug\Gym Management System.pdb
+C:\PROJECT\C#\New folder\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.AssemblyReference.cache
+C:\PROJECT\C#\New folder\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.SuggestedBindingRedirects.cache
+C:\PROJECT\C#\New folder\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Properties.Resources.resources
+C:\PROJECT\C#\New folder\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.GenerateResource.cache
+C:\PROJECT\C#\New folder\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.CoreCompileInputs.cache
+C:\PROJECT\C#\New folder\Gym Management System\Gym Management System\obj\Debug\Gym Management System.exe
+C:\PROJECT\C#\New folder\Gym Management System\Gym Management System\obj\Debug\Gym Management System.pdb
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe.config
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\Gym Management System.pdb
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.AssemblyReference.cache
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.SuggestedBindingRedirects.cache
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Login.resources
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Properties.Resources.resources
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.GenerateResource.cache
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.CoreCompileInputs.cache
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym Management System.exe
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym Management System.pdb
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Main.resources
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.AttendancyUC.resources
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.HomeUC.resources
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.PaymentUC.resources
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.RegistrationUC.resources
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.ReportUC.resources
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.ScheduleUC.resources
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.SettingsUC.resources
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.CopyComplete
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\Azure.Core.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\Azure.Identity.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.Identity.Client.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Buffers.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Memory.Data.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Memory.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Security.AccessControl.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Security.Permissions.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Security.Principal.Windows.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Text.Encodings.Web.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Text.Json.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.ValueTuple.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\Azure.Core.xml
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\Azure.Identity.xml
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.Identity.Client.xml
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Buffers.xml
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Memory.xml
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Memory.Data.xml
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Security.AccessControl.xml
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Security.Permissions.xml
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Security.Principal.Windows.xml
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Text.Encodings.Web.xml
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Text.Json.xml
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.ValueTuple.xml
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\PROJECT\GroupProject\Gym Management System\Gym Management System\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe.config
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\Gym Management System.pdb
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\Azure.Core.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\Azure.Identity.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.Identity.Client.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Buffers.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Memory.Data.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Memory.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Security.AccessControl.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Security.Permissions.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Security.Principal.Windows.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Text.Encodings.Web.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Text.Json.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.ValueTuple.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\Azure.Core.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\Azure.Identity.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.Identity.Client.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Buffers.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Memory.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Memory.Data.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Security.AccessControl.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Security.Permissions.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Security.Principal.Windows.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Text.Encodings.Web.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Text.Json.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\System.ValueTuple.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.AssemblyReference.cache
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.SuggestedBindingRedirects.cache
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.AttendancyUC.resources
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.HomeUC.resources
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Login.resources
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Main.resources
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.PaymentUC.resources
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Properties.Resources.resources
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.RegistrationUC.resources
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.ReportUC.resources
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.ScheduleUC.resources
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.SettingsUC.resources
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.GenerateResource.cache
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.CoreCompileInputs.cache
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.CopyComplete
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym Management System.exe
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym Management System.pdb
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.ViewMember.resources
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.ViewTrainer.resources
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\zxing.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\zxing.presentation.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\zxing.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System\Gym Management System\bin\Debug\zxing.presentation.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\Gym Management System.exe.config
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\Gym Management System.exe
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\Gym Management System.pdb
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\Azure.Core.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\Azure.Identity.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.Identity.Client.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\System.Buffers.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\System.Memory.Data.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\System.Memory.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\System.Security.AccessControl.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\System.Security.Permissions.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\System.Security.Principal.Windows.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\System.Text.Encodings.Web.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\System.Text.Json.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\System.ValueTuple.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\zxing.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\zxing.presentation.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\Azure.Core.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\Azure.Identity.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.Identity.Client.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\System.Buffers.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\System.Memory.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\System.Memory.Data.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\System.Security.AccessControl.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\System.Security.Permissions.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\System.Security.Principal.Windows.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\System.Text.Encodings.Web.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\System.Text.Json.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\System.ValueTuple.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\zxing.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\zxing.presentation.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\obj\Debug\Gym Management System.csproj.AssemblyReference.cache
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\obj\Debug\Gym Management System.csproj.SuggestedBindingRedirects.cache
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.AttendancyUC.resources
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.HomeUC.resources
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.Login.resources
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.Main.resources
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.PaymentUC.resources
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.Properties.Resources.resources
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.RegistrationUC.resources
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.ReportUC.resources
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.ScheduleUC.resources
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.SettingsUC.resources
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.ViewMember.resources
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.ViewTrainer.resources
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\obj\Debug\Gym Management System.csproj.GenerateResource.cache
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\obj\Debug\Gym Management System.csproj.CoreCompileInputs.cache
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\obj\Debug\Gym Management System.csproj.CopyComplete
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\obj\Debug\Gym Management System.exe
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\obj\Debug\Gym Management System.pdb
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\AForge.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\AForge.Video.DirectShow.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\AForge.Video.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\AForge.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\AForge.Video.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\AForge.Video.DirectShow.xml
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\BouncyCastle.Crypto.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\itextsharp.dll
+C:\PROJECT\New folder\GroupProject\Gym Management System - Copy\Gym Management System\bin\Debug\itextsharp.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\CefSharp.Core.Runtime.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\CefSharp.Core.Runtime.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\chrome_100_percent.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\chrome_200_percent.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\chrome_elf.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\d3dcompiler_47.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\icudtl.dat
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\libcef.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\libEGL.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\libGLESv2.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\LICENSE.txt
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\af.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\am.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\ar.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\bg.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\bn.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\ca.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\cs.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\da.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\de.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\el.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\en-GB.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\en-US.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\es-419.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\es.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\et.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\fa.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\fi.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\fil.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\fr.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\gu.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\he.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\hi.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\hr.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\hu.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\id.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\it.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\ja.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\kn.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\ko.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\lt.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\lv.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\ml.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\mr.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\ms.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\nb.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\nl.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\pl.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\pt-BR.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\pt-PT.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\ro.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\ru.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\sk.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\sl.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\sr.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\sv.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\sw.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\ta.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\te.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\th.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\tr.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\uk.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\ur.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\vi.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\zh-CN.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\locales\zh-TW.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\README.txt
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\resources.pak
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\snapshot_blob.bin
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\v8_context_snapshot.bin
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\vk_swiftshader.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\vk_swiftshader_icd.json
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\vulkan-1.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Gym Management System.exe.config
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Gym Management System.exe
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Gym Management System.pdb
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\AForge.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\AForge.Video.DirectShow.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\AForge.Video.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Azure.Core.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Azure.Identity.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\BouncyCastle.Crypto.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\CefSharp.Core.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\CefSharp.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\itextsharp.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.Identity.Client.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Buffers.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Memory.Data.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Memory.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Security.AccessControl.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Security.Permissions.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Security.Principal.Windows.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Text.Encodings.Web.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Text.Json.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.ValueTuple.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\zxing.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\zxing.presentation.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\AForge.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\AForge.Video.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\AForge.Video.DirectShow.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Azure.Core.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Azure.Identity.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\CefSharp.pdb
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\CefSharp.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\CefSharp.Core.pdb
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\CefSharp.Core.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\itextsharp.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.Identity.Client.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Buffers.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Memory.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Memory.Data.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Security.AccessControl.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Security.Permissions.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Security.Principal.Windows.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Text.Encodings.Web.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Text.Json.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.ValueTuple.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\zxing.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\zxing.presentation.xml
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym Management System.csproj.AssemblyReference.cache
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym Management System.csproj.SuggestedBindingRedirects.cache
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.AttendancyUC.resources
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.HomeUC.resources
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.Login.resources
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.Main.resources
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.PaymentUC.resources
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.Properties.Resources.resources
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.RegistrationUC.resources
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.ReportUC.resources
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.ScheduleUC.resources
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.SettingsUC.resources
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.ViewMember.resources
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.ViewTrainer.resources
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym Management System.csproj.GenerateResource.cache
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym Management System.csproj.CoreCompileInputs.cache
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym Management System.csproj.CopyComplete
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym Management System.exe
+C:\PROJECT\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym Management System.pdb
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Gym Management System.exe.config
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Gym Management System.exe
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Gym Management System.pdb
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Buffers.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Memory.Data.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Memory.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Security.AccessControl.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Security.Permissions.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Security.Principal.Windows.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Text.Encodings.Web.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Text.Json.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.ValueTuple.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\zxing.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\zxing.presentation.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\AForge.xml
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\AForge.Video.xml
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\AForge.Video.DirectShow.xml
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Azure.Core.xml
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Azure.Identity.xml
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.Identity.Client.xml
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Memory.xml
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Memory.Data.xml
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Security.AccessControl.xml
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Security.Permissions.xml
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Security.Principal.Windows.xml
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Text.Encodings.Web.xml
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Text.Json.xml
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.ValueTuple.xml
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\zxing.xml
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\zxing.presentation.xml
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym Management System.csproj.AssemblyReference.cache
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym Management System.csproj.SuggestedBindingRedirects.cache
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.AttendancyUC.resources
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.HomeUC.resources
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.Login.resources
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.Main.resources
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.PaymentUC.resources
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.Properties.Resources.resources
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.RegistrationUC.resources
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.ReportUC.resources
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.ScheduleUC.resources
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.SettingsUC.resources
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.ViewMember.resources
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.ViewTrainer.resources
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym Management System.csproj.GenerateResource.cache
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym Management System.csproj.CoreCompileInputs.cache
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym Management System.csproj.CopyComplete
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym Management System.exe
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\obj\Debug\Gym Management System.pdb
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\AForge.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\AForge.Video.DirectShow.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\AForge.Video.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Azure.Core.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Azure.Identity.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\BouncyCastle.Crypto.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.Identity.Client.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\PROJECT\New folder\shanuka\New folder\Gym Management System - Copy\Gym Management System\bin\Debug\System.Buffers.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\Gym Management System.exe.config
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\Gym Management System.exe
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\Gym Management System.pdb
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\AForge.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\AForge.Video.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\Azure.Core.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\Azure.Identity.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\System.Buffers.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\System.Memory.Data.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\System.Memory.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\System.Security.Permissions.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\System.Text.Json.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\System.ValueTuple.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\zxing.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\zxing.presentation.dll
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\AForge.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\AForge.Video.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\Azure.Core.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\Azure.Identity.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\System.Buffers.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\System.Memory.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\System.Memory.Data.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\System.Security.Permissions.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\System.Text.Json.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\System.ValueTuple.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\zxing.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\bin\Debug\zxing.presentation.xml
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\obj\Debug\Gym Management System.csproj.AssemblyReference.cache
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\obj\Debug\Gym Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.AttendancyUC.resources
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.HomeUC.resources
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.Login.resources
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.Main.resources
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.PaymentUC.resources
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.Properties.Resources.resources
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.RegistrationUC.resources
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.ReportUC.resources
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.ScheduleUC.resources
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.SettingsUC.resources
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\obj\Debug\Gym_Management_System.ViewMember.resources
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\obj\Debug\Gym Management System.csproj.GenerateResource.cache
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\obj\Debug\Gym Management System.csproj.CoreCompileInputs.cache
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\obj\Debug\Gym Management System.csproj.CopyComplete
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\obj\Debug\Gym Management System.exe
+C:\Users\Shanuka\Desktop\Gym Management System - Copy\Gym Management System\obj\Debug\Gym Management System.pdb
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\Gym Management System.exe.config
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\Gym Management System.exe
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\Gym Management System.pdb
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\AForge.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\AForge.Video.DirectShow.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\AForge.Video.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\Azure.Core.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\Azure.Identity.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\BouncyCastle.Crypto.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\Microsoft.Identity.Client.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\System.Buffers.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\System.Memory.Data.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\System.Memory.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\System.Security.AccessControl.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\System.Security.Permissions.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\System.Security.Principal.Windows.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\System.Text.Encodings.Web.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\System.Text.Json.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\System.ValueTuple.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\zxing.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\zxing.presentation.dll
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\AForge.xml
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\AForge.Video.xml
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\AForge.Video.DirectShow.xml
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\Azure.Core.xml
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\Azure.Identity.xml
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\Microsoft.Identity.Client.xml
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\System.Buffers.xml
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\System.Memory.xml
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\System.Memory.Data.xml
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\System.Security.AccessControl.xml
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\System.Security.Permissions.xml
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\System.Security.Principal.Windows.xml
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\System.Text.Encodings.Web.xml
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\System.Text.Json.xml
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\System.ValueTuple.xml
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\zxing.xml
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\bin\Debug\zxing.presentation.xml
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\obj\Debug\Gym Management System.csproj.AssemblyReference.cache
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\obj\Debug\Gym Management System.csproj.SuggestedBindingRedirects.cache
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\obj\Debug\Gym_Management_System.AttendancyUC.resources
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\obj\Debug\Gym_Management_System.HomeUC.resources
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\obj\Debug\Gym_Management_System.Login.resources
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\obj\Debug\Gym_Management_System.Main.resources
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\obj\Debug\Gym_Management_System.PaymentUC.resources
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\obj\Debug\Gym_Management_System.Properties.Resources.resources
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\obj\Debug\Gym_Management_System.RegistrationUC.resources
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\obj\Debug\Gym_Management_System.ReportUC.resources
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\obj\Debug\Gym_Management_System.ScheduleUC.resources
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\obj\Debug\Gym_Management_System.SettingsUC.resources
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\obj\Debug\Gym_Management_System.ViewMember.resources
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\obj\Debug\Gym Management System.csproj.GenerateResource.cache
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\obj\Debug\Gym Management System.csproj.CoreCompileInputs.cache
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\obj\Debug\Gym Management System.csproj.CopyComplete
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\obj\Debug\Gym Management System.exe
+C:\PROJECT\New folder\shanuka\Gym Management System - final\Gym Management System\obj\Debug\Gym Management System.pdb
